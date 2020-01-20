@@ -17,7 +17,7 @@ DevRadar
 [//]: # (Add your gifs/images here:)
 <div>
   <img src="https://github.com/johnnypeixoto/images/blob/master/web.gif" alt="demo" height="365">
-  <img src="https://github.com/https://github.com/johnnypeixoto/images/blob/master/mobile.gif" alt="demo" height="365">
+  <img src="https://github.com/johnnypeixoto/images/blob/master/mobile.gif" alt="demo" height="365">
 </div>
 
 <hr />
