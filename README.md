@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://github.com/johnnypeixoto/images/blob/master/devRadarLogo.png" alt="DevRadar" width="500">
+  <img src="https://github.com/johnnypeixoto/images/blob/master/devRadarLogo.png" alt="DevRadar" width="400">
 <br>
 <br>
 DevRadar
@@ -8,7 +8,7 @@ DevRadar
 
 <p align="center">Projeto resultado da Semana Omnistack #10</p>
 
-<p>DevRadar é uma aplicação que utiliza o nome da tecnologia desejada, e sua atual localização, para realizar uma busca de desenvolvedores(a) em um raio de 10Km de distância no mapa, permitindo visualizar um breve resumo da biografia e das tecnologias que os mesmos utilizam, podendo também acessar diretamente seus perfis no Github.</p>
+<p>Pesquise o nome da tecnologia desejada, utilizando sua atual localização, para buscar desenvolvedores(a) em um raio de 10Km de distância no mapa, e visualize as tecnologias que os mesmos utilizam, podendo acessar diretamente seus perfis no Github.</p>
 <p>Quando um novo Dev é cadastrado na Interface web, isso é refletido em tempo real no mapa da aplicação mobile de outros Devs que estejam dentro do raio de alcance, e que as tecnologias atribuídas ao novo Dev sejam as mesmas tecnologias anteriormente buscadas.</p>
 <p>API Backend construida em NodeJS utilizando api.github.com/users, MongoDB e Socket.IO</p>
 <p>Interface Web construída em ReactJS</p>
