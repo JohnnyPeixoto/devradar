@@ -8,11 +8,11 @@ DevRadar
 
 <p align="center">Projeto resultado da Semana Omnistack #10</p>
 
-<p>Pesquise o nome da tecnologia desejada, utilizando sua atual localização, para buscar desenvolvedores(a) em um raio de 10Km de distância no mapa, e visualize as tecnologias que os mesmos utilizam, podendo acessar diretamente seus perfis no Github.</p>
-<p>Quando um novo Dev é cadastrado na Interface web, isso é refletido em tempo real no mapa da aplicação mobile de outros Devs que estejam dentro do raio de alcance, e que as tecnologias atribuídas ao novo Dev sejam as mesmas tecnologias anteriormente buscadas.</p>
-<p>API Backend construida em NodeJS utilizando api.github.com/users, MongoDB e Socket.IO</p>
+<p>Pesquise os nomes das tecnologias desejadas, utilizando sua atual localização, para buscar desenvolvedores(a) em um raio de 10Km de distância no mapa, e visualize as tecnologias que os mesmos utilizam, podendo acessar diretamente seus perfis no Github.</p>
+
+<p>API Backend construida em NodeJS, utilizando api.github.com/users, MongoDB e Socket.IO</p>
 <p>Interface Web construída em ReactJS</p>
-<p>Interface Mobile construída em React Native utilizando Expo</p>
+<p>Interface Mobile construída em React Native, utilizando Expo</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
