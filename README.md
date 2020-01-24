@@ -42,7 +42,7 @@ This app features all the latest tools and practices in mobile development!
 ## Getting started
 
 <ol>
-<li>Clone this repo using <code>git clone git@github.com:johnnypeixoto/devradar.git</code></li>
+<li>Clone this repo using <code>git clone https://github.com/johnnypeixoto/devradar.git</code></li>
 <li>Move yourself to the appropriate directory: <code>cd devradar</code><br></li>
 <li>Run <code>yarn</code> to install dependencies<br></li>
 </ol>
